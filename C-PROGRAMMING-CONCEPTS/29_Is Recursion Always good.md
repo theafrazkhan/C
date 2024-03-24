@@ -1,4 +1,11 @@
 # Is Recursion Always Good? 
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/29.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/29.c
+```
+
 ## Why is Recursion not always good 
 
 

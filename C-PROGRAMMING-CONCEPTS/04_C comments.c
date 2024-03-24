@@ -14,6 +14,14 @@
 
 int main(void)
 {
+    // This is a single line comment 
+
+    /*
+        This is a 
+        multi
+        line comment
+        
+    */
     int a, b;
     printf("Enter number a\n");
     scanf("%d", &a);

@@ -1,4 +1,11 @@
-# Rock, Paper & Scissors In C Language 
+# Rock, Paper & Scissors In C 
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/56_rock_paper_scissor_solution.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/56_rock_paper_scissor_solution.c
+```
+
 
 
 ## Problem statement

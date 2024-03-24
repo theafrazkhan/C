@@ -1,4 +1,11 @@
 # Wild Pointer
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/55_Wild_pointer.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/55_Wild_pointer.c
+```
+
 Uninitialized pointers are known as wild pointers because they point to some arbitrary memory location while they are not assigned to any other memory location. This may even cause a program to crash or behave unpredictably at times.
 
 ## For example:

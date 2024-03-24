@@ -1,4 +1,11 @@
 # Area of Circle In C Exercise 14 Solution: 
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/76_Area_of_circle_Exercise.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/76_Area_of_circle_Exercise.c
+```
+
 Today we are going to discuss the solution of problem given in Tutorial #74. I hope that you have solved the problem and have learned the concept completely. The problem statement is again displayed below:-
 
 ## Problem Statement:-

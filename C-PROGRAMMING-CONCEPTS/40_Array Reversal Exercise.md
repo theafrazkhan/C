@@ -1,4 +1,9 @@
 # C Language Array Reversal Exercise 5
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/40_Exercise_reverse_array.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/40_Exercise_reverse_array.c
+```
 
 ## Instruction
 In this task you have to write a C program that will reverse an array of integers. For that purpose, create the function that will take array as an argument and reverse an array.

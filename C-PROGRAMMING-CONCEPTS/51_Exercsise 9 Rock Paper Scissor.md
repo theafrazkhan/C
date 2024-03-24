@@ -1,5 +1,12 @@
 # Coding Rock, Paper, Scissors In C Exercise 9
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/51_rock_paper_scissor.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/51_rock_paper_scissor.c
+```
+
+
 
 For this task, we will use library time.h. The header file time.h contains definitions of functions to get and manipulate date and time information in our program. You also have to generate a random number for this program, so the following is the code to generate a random number.
 

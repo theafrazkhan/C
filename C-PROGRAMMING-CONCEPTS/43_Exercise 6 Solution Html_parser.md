@@ -1,4 +1,10 @@
-# C Tutorial Exercise 6: Solutions and Shout outs
+# C Tutorial Exercise 6: Solutions 
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/43_Html_parser.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/43_Html_parser.c
+```
 
 ## Instructions
 

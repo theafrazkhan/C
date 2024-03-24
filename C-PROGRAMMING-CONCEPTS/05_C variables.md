@@ -1,4 +1,10 @@
 # C Variables
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/05_Basic_Syntax_Of_C_Program.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/05_Basic_Syntax_Of_C_Program.c
+```
 Variables are containers for storing data values.
 
  

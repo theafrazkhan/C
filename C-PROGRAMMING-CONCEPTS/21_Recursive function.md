@@ -1,4 +1,10 @@
 # Recursive Functions
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/21_Recursion_a.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/21_Recursion_a.c
+```
 ## What are recursive functions?
 Recursive functions or recursion is a process when a function calls a copy of itself to work on smaller problems.
 

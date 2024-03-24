@@ -1,4 +1,10 @@
 # C Data Types & Constants
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/06_Variables__Data_Types.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/06_Variables__Data_Types.c
+```
 As explained previously, a variable in C must be a specified data type, and you must use a format specifier inside the printf function to display the value present in the variable
 
 The data type specifies the size and type of information the variable will store.

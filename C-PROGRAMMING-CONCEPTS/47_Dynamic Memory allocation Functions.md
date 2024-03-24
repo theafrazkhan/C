@@ -1,4 +1,11 @@
 # C Memory Allocation
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/47_Dynamic_memory_allocation.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/47_Dynamic_memory_allocation.c
+```
+
 There are ways in which we can allocate memories dynamically in a heap. We use these four standard library functions often;
 
  

@@ -1,5 +1,11 @@
 # Storage Classes In C Auto, Extern Static & Register Storage Classes
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/49_storage_class.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/49_storage_class.c
+```
+
 "A storage class defines scope, default initial value, and a lifetime of a variable."
 
 Here, scope refers to the variable's availability at places. The initial default value refers to the value present in the variables as default before being initialized, and the lifetime refers to the variable's duration of life.

@@ -1,4 +1,11 @@
 # C Pre-processor Introduction & Working
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/58_preprocessors.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/58_preprocessors.c
+```
+
 As we all know, what happens behind the scene in C programming. But before learning about pre-processors in C, it is quite important to revise the concept. Let us have a quick recap of what’s happening behind C program. The compiler converts the textual form of the C program into an executable file. There are four phases for the C program to become executable. These are Pre-processing, compilation, assembly, and linking. In pre-processing, it includes removing comments, expansion of macro, and expansion of include files. In the compilation phase, assembly level instructions are generated. Whereas in the assembly phase, the assembly level instructions are converted into machine code, and in linking, it resolves the function calls. In short, it links the function implementation. Now let us move to the main topic of this tutorial, "Pre-processors in C."
 
 ## What is a C Pre-processor?

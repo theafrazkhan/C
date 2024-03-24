@@ -1,4 +1,10 @@
-# Passing Arrays As Function Arguments: C Tutorial In Hindi #
+# Passing Arrays As Function Arguments
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/32_passing_array_to_function.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/32_passing_array_to_function.c
+```
 
 
 Just like variables, array can also be passed to a function as an argument. In this tutorial, we will learn how to pass the array to a function using call by value and call by reference methods (using pointers). We have already discussed how to use function calls in the previous tutorial#31

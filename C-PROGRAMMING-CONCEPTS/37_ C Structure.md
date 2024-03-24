@@ -1,4 +1,10 @@
-#C Structures
+# C Structures
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/37_structure.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/37_structure.c
+```
 We have already learnt in the previous tutorials that variables store one piece of information and arrays of certain data types store the information of the same data type. Variables and arrays can handle a great variety of situations. But quite often, we have to deal with the collection of dissimilar data types. For dealing with cases where there is a requirement to store dissimilar data types, C provides a data type called ‘structure’. It is a way to group together information belonging to different data types and combine them into one structure.
 
  

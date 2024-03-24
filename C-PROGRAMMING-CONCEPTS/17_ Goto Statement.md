@@ -1,4 +1,9 @@
 ## Goto Statement 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/17_Goto_Statement.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/17_Goto_Statement.c
+```
 
 - A goto statement in C programming language provides an unconditional jump from the ‘goto’ to a labeled statement in the same function.
 - NOTE − Use of goto statements is highly discouraged or avoided in any programming language because it makes difficult to trace the control flow of a program to fellow programmers, making the program hard to understand and hard to modify or manipulate. Any program which uses goto can be modified to avoid goto statements.

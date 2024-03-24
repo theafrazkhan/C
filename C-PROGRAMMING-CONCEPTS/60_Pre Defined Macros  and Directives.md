@@ -1,5 +1,12 @@
 # Predefined Macros & Other Pre-processor Directives
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/60_Directives_and_predefined_macros.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/60_Directives_and_predefined_macros.c
+```
+
+
 In the previous tutorial, we learned about preprocessor directives and covered a few of them. If you haven't gone through that tutorial i.e., Tutorial #59, I would recommend visiting that one first. In this tutorial, we will further learn about preprocessor directives, along with pre-defined macros.
 
 ## Let's start 

@@ -1,4 +1,9 @@
 # C Exercise 2: Units and Conversions
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/22_Exercise_2_Unit_Conversion.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/22_Exercise_2_Unit_Conversion.c
+```
 ## Exercise 2 :
 ### Question : Write a program which converts the following units into another 
  

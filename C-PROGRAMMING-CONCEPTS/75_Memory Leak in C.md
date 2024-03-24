@@ -1,5 +1,11 @@
 # Memory Leak In C
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/75_Solution.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/75_Solution.c
+```
+
 With great power comes great responsibility. C programming is a language that gives us the power of memory management. As in the previous lecture, we have discussed the concept of dynamic memory allocation. We know that dynamic memory allocation is a way in which the size of a data structure can be changed during the runtime. Memory assigned to a program in a typical architecture is divide into four segments:
 
 ## - Code: 

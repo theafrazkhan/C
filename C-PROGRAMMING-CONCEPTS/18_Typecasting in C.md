@@ -1,4 +1,10 @@
 # Typecasting In C
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/18_TypeCasting.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/18_TypeCasting.c
+```
 Typecasting is a way to convert one data type into another one. It is also known as data conversion or type conversion.
  
 

@@ -1,4 +1,10 @@
 # C Operators
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/07_Operators.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/07_Operators.c
+```
 Special symbols that are used to perform actions or operations are known as operators. They could be both unary or binary.
 
 For example, the symbol asterisk (*) is used to perform multiplication in C so it is an operator and it is a binary operator.

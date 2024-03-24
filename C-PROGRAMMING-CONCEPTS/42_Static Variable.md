@@ -1,4 +1,10 @@
 # C Static Variables
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/42_Static_variable.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/42_Static_variable.c
+```
+
 ## A. Local Variables
 Local variables are variables that are declared inside a function or a block of code. These variables cannot be accessed outside the function they are declared in. Local variables can be accessed only by statements that are inside that function or block of code which means the scope of these variables will be within the function only.
 

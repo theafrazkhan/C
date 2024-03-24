@@ -1,5 +1,11 @@
 # Array Reversal In C - Exercise 5
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/28_Exercise%203%20Solution.md)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/28_Exercise%203%20Solution.md
+```
+
 ## The task you have to perform is “Array Reversal in C”.
 
 ## Instruction

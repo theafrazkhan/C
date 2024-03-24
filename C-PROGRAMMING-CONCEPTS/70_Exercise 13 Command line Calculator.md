@@ -1,5 +1,12 @@
 # Command Line Calculator In C - Exercise 13
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/70_command_line_aurgument_exercise.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/70_command_line_aurgument_exercise.c
+```
+
+
 Today’s exercise question is based on the command-line interface. If you have not that tutorial, then check the tutorial#68  to learn the concept of command-line arguments in C. 
 
 The task you have to perform today is to build an “Command Line Calculator in C”. Following is the problem statement.

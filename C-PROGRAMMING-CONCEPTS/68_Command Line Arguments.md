@@ -1,5 +1,12 @@
 # Command Line Arguments In C
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/68_Command_line_aurguments.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/68_Command_line_aurguments.c
+```
+
+
 In this tutorial, primarily, we will learn about command-line arguments, and then moving forward, we will learn how to write our own command-line utilities using C language.
 
 ## Definition:

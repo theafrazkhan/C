@@ -1,4 +1,11 @@
 # C Language HTML Parser Exercise 6
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/41_Exercise%206%20Html%20Parser.md)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/41_Exercise%206%20Html%20Parser.md
+```
+
 While using a browser, when you click right and select view page source, you will see the HTML of that website you are using at that time. HTML is the standard markup language for Web pages. So, today’s task is to write a code to “parse the sample HTML.”
 
 ## Instructions

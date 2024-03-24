@@ -1,4 +1,10 @@
-#Exercise 1 - Multiplication Tables: 
+# Exercise 1 - Multiplication Tables
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/08_Exercise_Multiplication_Table.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/08_Exercise_Multiplication_Table.c
+```
 This is the first exercise of C programming tutorials. Your first task is to “Print Multiplication Table in C”. All of the concept we have studied till now will use in this task, so by solving this exercise you can examine yourself that how much effort you need to put in learning C language.
 
 ## Instructions:-

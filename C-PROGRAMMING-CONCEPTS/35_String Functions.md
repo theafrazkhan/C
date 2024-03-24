@@ -1,4 +1,11 @@
 # String Functions
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/35_strings_library.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/35_strings_library.c
+```
+
 We can use C's string handling library functions to handle strings. The string.h library is used to perform string operations. It provides several functions for manipulating strings. 
 
 Following are some commonly used string handling functions:

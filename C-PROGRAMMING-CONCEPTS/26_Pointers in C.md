@@ -1,4 +1,10 @@
 # C Pointers
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/26_pointers_basic_syntax.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/26_pointers_basic_syntax.c
+```
 When we initialise an array, we usually come to know about the,
 
 - Memory block which is the space a variable gets in RAM. We can think of that space as a block.

@@ -1,4 +1,10 @@
 # Array Basics
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/23_Arrays.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/23_Arrays.c
+```
 An array is a collection of data items of the same data type. And it is also known as a subscript variable.
 
 - Items are stored at contiguous memory locations in arrays.

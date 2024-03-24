@@ -1,5 +1,11 @@
 # Matrix Multiplication In C Language 
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/57_Matrix__Multiplication.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/57_Matrix__Multiplication.c
+```
+
 The task you have to perform today is to write a program “Matrix Multiplication In C language”. Matrix multiplication in C language will calculate the product of two matrices (two-dimensional arrays).
 
 ## Problem Statement

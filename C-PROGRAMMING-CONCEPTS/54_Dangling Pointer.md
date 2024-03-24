@@ -1,4 +1,11 @@
 # Dangling Pointer
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/54_Dangling_pointer.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/54_Dangling_pointer.c
+```
+
 Dangling pointers are pointers that are pointing to a memory location that has been already freed or deleted.
 
 Dangling pointers often come into existence during object destruction. It happens when an object with an incoming reference is deleted or de-allocated, without modifying the value of the pointer. The pointer still points to the memory location of the deallocated memory. 

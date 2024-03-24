@@ -1,6 +1,13 @@
 # #define and #include Preprocessor Directives
 
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/59_Define_and_Include.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/59_Define_and_Include.c
+```
+
+
 ## #include
 
 In the C Programming, the #include directive causes the pre-processor to fetch the contents of another file into the source code. It will add the content at the point where the #include directive is found. The #include directive is typically used to include the C header files for the C functions that are held outside of the current source file.

@@ -1,4 +1,11 @@
 # Files I/O
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/67_File_Modes.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/67_File_Modes.c
+```
+
 The first and foremost thing we should know when working with files in C is that we have to declare a pointer of the file type to work with files. The syntax for declaring a pointer of file type is
 ``` c
     FILE *ptr;

@@ -1,5 +1,12 @@
 # C Language Employee Manager Exercise 8
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/48_Exercise_dynamic_memory_allocation.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/48_Exercise_dynamic_memory_allocation.c
+```
+
+
 
 ## Problem Statement
 Suppose ABC is a private limited company which manages the employee records of other companies. Employee id can be of any length, and it can contain any character. The following are the task you have to perform for three employees.

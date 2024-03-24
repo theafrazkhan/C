@@ -1,4 +1,11 @@
 # C NULL Pointer
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/53_Null_Pointer.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/53_Null_Pointer.c
+```
+
 A pointer that is not assigned any value or memory address but NULL is known as a NULL pointer. A NULL pointer does not point to any object, variable, or function. NULL pointers are often used to initialize a pointer variable, where we wish to represent that the pointer variable isn’t currently assigned to any valid memory address yet.
 
  

@@ -1,5 +1,14 @@
 # Arrays And Pointer Arithmetic In C
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/27a_arrays_and_pointer_arithmetic.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/27a_arrays_and_pointer_arithmetic.c
+
+
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/27b_arrays_and_pointer_arithmatic.c
+```
+
 ## There are four arithmetic operators that can be used on Pointers 
 
 - ++

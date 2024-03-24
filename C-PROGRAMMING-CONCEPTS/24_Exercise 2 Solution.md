@@ -1,5 +1,9 @@
 # Exercise-2 (Solution)
- 
+ ## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/24_Exercise_2_Solution.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/24_Exercise_2_Solution.c
+```
 ## Question: You have to make a program which can convert the following units into other system units.
 
 

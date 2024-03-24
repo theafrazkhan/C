@@ -1,4 +1,11 @@
 # C Memory Layout
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/45_Dynamic_memory_allocation.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/45_Dynamic_memory_allocation.c
+```
+
 ## What is Dynamic Memory?
 Any allocation of memory space during the runtime of the program is called dynamic memory allocation. The concept of dynamic memory allocation is used to reduce the wastage of memory, and it is the optimal way of memory allocation. 
 

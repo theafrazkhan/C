@@ -1,5 +1,12 @@
 # Function Pointers In C
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/72_Funtion_Pointer.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/72_Funtion_Pointer.c
+```
+
+
 - To understand this concept of function pointers, you should have the basic knowledge of Pointers and dynamic memory allocation. We have already discussed pointers and dynamic memory allocation in our previous lectures. The quick review of the pointer is that pointer is a variable containing another variable's address. It means it is a variable, but this variable contains any other variable's address or memory address. The pointer can be of type int, char, array, function, or any other pointer. The symbol * is used to get the value of the variable that the pointer is pointing to, and the & symbol is to get the address of the variables. In C, we can create a generic pointer like a dangling, null, etc. Now let us revise the concept of dynamic memory allocation.
 
 - A statically allocated variable or array has a fixed size in memory. Whereas the dynamic memory allocation is a way in which the size of the data structure can be changed during runtime. The memory assigned to a program in a typical architecture can be broken down into four segments. These are code, global & static variables, stack, and heap.

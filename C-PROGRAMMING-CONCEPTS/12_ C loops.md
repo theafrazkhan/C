@@ -1,4 +1,10 @@
 # C Loops
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/12_Loops_in_C.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/12_Loops_in_C.c
+```
 In programming, we often have to perform an action, again and again, with little or no variations in the details each time they are executed. This need is met by a mechanism known as a loop.
 
 The versatility of the computer lies in its ability to perform the set of instructions repeatedly. This involves repeating some code in the program, either a specified number of times or until a particular condition is satisfied. Loop-controlled instructions are used to perform this repetitive operation efficiently ensuring the program doesn’t look redundant at the same time due to the repetitions.

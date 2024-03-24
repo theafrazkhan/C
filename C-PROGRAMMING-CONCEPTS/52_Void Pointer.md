@@ -1,4 +1,11 @@
 # C VOID Pointer
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/52_void_pointer.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/52_void_pointer.c
+```
+
 After a brief discussion about pointers, it’s time to start with a very important type of pointers, void pointers and their functionalities. We already know that a void function has no return type i.e., functions that are not returning anything are given the type void. Now, in  the case of pointers that are given the datatype of a void, they can be typecasted into any other data type according to the necessity. And that aids that we do not have to decide on a data type for the pointer initially. 
 
  

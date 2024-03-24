@@ -1,5 +1,16 @@
 # function Calls In C programming
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/31a_Functions_Call_By_Value.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/31a_Functions_Call_By_Value.c
+
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/31b_Functions_Call_By_Reference.c
+
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/31c_problem.c
+ 
+```
+
 By now we are well familiar with how to use functions in C. But, if we observe carefully, whenever we called a function and passed something to it, we have always passed the ‘values’ of variables to the called function. Such function calls are called ‘call by value’. Similarly, we have also learned that variables are stored somewhere in memory. So instead of passing the value of a variable, can we pass the location an address of the variable to a function. Such function calls are called ‘call by reference’.
 
 **This call by reference functions needs the knowledge of ‘pointers’. It is the use of pointers that makes the C programming an excellent language.**

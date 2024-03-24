@@ -1,4 +1,10 @@
 # Functions In C
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/19_Functions.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/19_Functions.c
+```
 ## Functions
 - Functions are used to divide a large C program into smaller pieces.
 - Function can be called multiple or several times to provide reusability and modularity to the C program.

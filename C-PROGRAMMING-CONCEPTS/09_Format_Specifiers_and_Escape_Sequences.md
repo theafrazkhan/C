@@ -1,4 +1,10 @@
 # User Input/Output
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/09_%20User%20input%20output.md)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/09_%20User%20input%20output.md
+```
 We have already learned how the printf() function is used to output values in C. Another method, which goes by the name, scanf(), is used to get user input.
 
  

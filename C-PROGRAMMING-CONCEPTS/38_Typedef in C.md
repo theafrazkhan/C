@@ -1,4 +1,10 @@
-##C Typedef
+# C Typedef
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/38_Typedef.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/38_Typedef.c
+```
+
 In C programming, a typedef declaration is used to create shorter and more meaningful and convenient to use names for keywords already defined by C like int, float, and char.
 
  

@@ -1,5 +1,12 @@
 # Automated Receipt Generator In C - Exercise 12
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/69_Exercise_Bill_Generator.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/69_Exercise_Bill_Generator.c
+```
+
+
 Today’s exercise is based on the concept of File I/O in C. If you have not watched this tutorial yet, check tutorial#62 to grasp the concept of File handling in C.The task you have to perform is to create an “Automated Receipt Generator In C ”
 
 ## Problem Statement:-

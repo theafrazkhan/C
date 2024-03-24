@@ -1,5 +1,12 @@
 # C Language Travel Agency Manager Exercise 7
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/46_solution_44.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/46_solution_44.c
+```
+
+
 ## Instructions
 You manage a travel agency, and you want your n drivers to input their following details
 

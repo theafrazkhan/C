@@ -1,4 +1,11 @@
 # Operations on Files
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/64_File_Io_function.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/64_File_Io_function.c
+```
+
 There are basically four operations we can perform on files in C:
 
  

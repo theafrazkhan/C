@@ -1,4 +1,11 @@
 # C Unions
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/39_Unions.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/39_Unions.c
+```
+
 Just like Structures, the union is a user-defined data type.  All the members in unions share the same memory location. The union is a data type that allows different data belonging to different data types to be stored in the same memory locations. One of the advantages of using a union is that it provides an efficient way of reusing the memory location, as only one of its members can be accessed at a time. A union is used in the same way we declare and use a structure. The difference lies just in the way memory is allocated to their members.
 
  

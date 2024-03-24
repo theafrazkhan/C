@@ -1,5 +1,11 @@
 # Exercise 3 On Recursions 
 
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/25_fabonacci_series_using_recursion.c)
+
+```
+ https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/25_fabonacci_series_using_recursion.c
+```
+
 ## Question : Write a program using recursive function to produce Fibonacci series of numbers?
 
 ``` c
