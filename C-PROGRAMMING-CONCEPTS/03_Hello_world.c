@@ -8,6 +8,10 @@
 // Program: A simple C program Printing Hello world to the screen
 // Description: Have a look at Readme.md file to have detailed insights of this program
 
+/* --> 
+     # heading
+     * list
+     <!--- */
 //*****************************************************************************************************
 
 #include <stdio.h>
