@@ -1,11 +1,12 @@
 # Basic Structure & Syntax
 
-``` html
-<a herf = "https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/03_Hello_world.c"> Practice this concept with Source code >
+
+## [Practice this concept with Source code ](https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/03_Hello_world.c)
 
 ```
-
-
+https://github.com/theafrazkhan/C/blob/main/C-PROGRAMMING-CONCEPTS/03_Hello_world.c
+ 
+```
 Programming in C involves following a basic structure throughout. Here’s what it can be broken down to.
 
 - Pre-processor commands
